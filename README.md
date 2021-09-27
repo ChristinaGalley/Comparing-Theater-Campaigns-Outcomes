@@ -1,7 +1,7 @@
-# **Comparing-Theater-Campaigns-Outcomes**
+# **Comparing-Theater-Campaigns-Outcomes** #
 Analysis of Theater Outcomes Based on Launch dates and Funding Goals.
 ---
-###**Overview of Project**
+###**Overview of Project** ###
 ---
 This project entails the analysis of theater play outcomes in the setting of launch dates compared to funding goals. The purpose of this analysis is to create a context of competitor theaters' play outcomes to compare the outcome of Louise's play *Fever* to.
 ---
