@@ -13,7 +13,7 @@ Analysis of Theater Outcomes Based on Launch dates and Funding Goals.
 ---
 ###### *Conslusions:* ######
 ---
-###### There are two comlusions I draw concerning the theater outcomes by launch date: plays launched in the summer months, ie. May June July, are much more successful than plays launched in the other seasons/months, and an increase in failed outcomes from plays launched in the Winter months, ie. October November December. Looking at the outcomes based on goals, it can be concluded that generally the higher the goal amount, the higher the chance of outcome failure. However, there is an increase in successful outcomes aorund the 40000 range. ######
+###### There are two conlusions I draw concerning the theater outcomes by launch date: plays launched in the summer months, ie. May June July, are much more successful than plays launched in the other seasons/months, and an increase in failed outcomes from plays launched in the Winter months, ie. October November December. Looking at the outcomes based on goals, it can be concluded that generally the higher the goal amount, the higher the chance of outcome failure. However, there is an increase in successful outcomes aorund the 40000 range. ######
 ---
 ###### *Limitations:* ######
 ---
